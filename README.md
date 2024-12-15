@@ -1,4 +1,12 @@
-# SHOWCASE: Sort users toggle(Asc/Desc)
-# DSA: Quick Sort
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Ginger-Port/react-v3ojycpn)
+# SHOWCASE: Sorting Users App
+# Description:
+A full-stack application designed for managing user data, including CRUD operations and authentication.
+# Key Features
+RESTful API
+Sorting Algorithms: Integrated DSA techniques to sort user data efficiently.
+# Tech Stack:
+React.js
+# Live Demo: 
+deploying soon...
+# Repository:
+[ Users App GitHub](https://github.com/Ginger-Port/users-sort-quicksort)
