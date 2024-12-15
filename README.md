@@ -1,6 +1,6 @@
 # SHOWCASE: Sorting Users App
 # Description:
-A full-stack application designed for managing user data, including CRUD operations and authentication.
+
 # Key Features
 RESTful API
 Sorting Algorithms: Integrated DSA techniques to sort user data efficiently.
